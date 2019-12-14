@@ -128,4 +128,4 @@ while True:
             gameOver()
     showScore()
     pygame.display.flip()
-    fpsController.tick(25)
+    fpsController.tick(50)
