@@ -21,5 +21,6 @@
     <option name="frameInfo">
       <frame x="10" y="20" width="1346" height="688" />
     </option>
+    <option name="preferredMode" value="LightEdit" />
   </component>
 </application>
